@@ -1,0 +1,1 @@
+URL_SERVICE = "https://fake-json-api.mock.beeceptor.com/companies"
