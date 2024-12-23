@@ -1,1 +1,1 @@
-# qa-banckend-automation-tests
+# qa-backend-automation-tests
