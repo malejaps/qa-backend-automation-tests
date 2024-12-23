@@ -13,8 +13,13 @@ pip install pytest requests jsonschema
 
 # Run tests
 
+Option 1: Run tests by marker, to run each test:
 ```
 pytest -m "marker_name"
 ```
 
+Option 2: Run all tests
+```
+pytest test_api.py
+```
 
